@@ -6,15 +6,15 @@ Adam O'Dell - Student of JHU Data Science Specialization.
 June 2015
 ==================================================================
 
-1) Raw data sets provided by UCI, and described below, were downloaded and unzipped
-2) Raw data contained two "main" data sets: "test" and "train", which were merged into one data set
-3) Raw data set contained a number of variables that were not of interest, so:
-4) Raw data was subsetted to include only the COLUMNS/VARIABLES that included a "mean" or "standard deviation" calculation of 	the collected data
-5) For clarity, descreptive names were then assigned to each of the 66 variables selected
-6) Furthermore, the raw data included measurements taking during one of six "activities," which, in the raw data, were number 1 	- 6, therefore:
-7) Each of the numbered Activities were assigned their appropriate label, such as "Walking"
-8) Finally, the goal was to produce a final tidy data set that included a calcualation of the mean (i.e. average) of each of the 	66 measurement variables, by Subject, and by Activity.
-9) As there were 30 subjects and 6 activities, this resulted in 180 observations for each of the 66 variables.
+*1) Raw data sets provided by UCI, and described below, were downloaded and unzipped
+*2) Raw data contained two "main" data sets: "test" and "train", which were merged into one data set
+*3) Raw data set contained a number of variables that were not of interest, so:
+*4) Raw data was subsetted to include only the COLUMNS/VARIABLES that included a "mean" or "standard deviation" calculation of 	the collected data
+*5) For clarity, descreptive names were then assigned to each of the 66 variables selected
+*6) Furthermore, the raw data included measurements taking during one of six "activities," which, in the raw data, were number 1 	- 6, therefore:
+*7) Each of the numbered Activities were assigned their appropriate label, such as "Walking"
+*8) Finally, the goal was to produce a final tidy data set that included a calcualation of the mean (i.e. average) of each of the 	66 measurement variables, by Subject, and by Activity.
+*9) As there were 30 subjects and 6 activities, this resulted in 180 observations for each of the 66 variables.
 
 
 ==================================================================
